@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    height: 100px;
+    background-color: rgba(90, 50, 54, 0.596);
+}
+
+header img {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+    padding-left: 10px;
+    padding-top: 10px;
+} 
+nav{
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-right: 20px;
+    border: 3px solid rgb(0, 255, 115);
+
+} 
+footer{
+    height: 140px;
+    background-color: rgba(90, 50, 54, 0.596);
+}
+main img{ height: 200px;
+    width: 300px;
+    padding-left: 10px;
+    padding-top: 20px;
+
+}
+.stih{
+    text-align: center;
+}
